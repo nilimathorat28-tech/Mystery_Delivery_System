@@ -10,20 +10,28 @@ The program calculates the total distance traveled by each agent and identifies 
 -Read and parse JSON data.
 
 -Calculate Euclidean distance.
+
 -Assign packages to the nearest delivery agent.
+
 -Calculate total delivery distance.
+
 -Calculate average distance per delivery.
+
 -Identify the most efficient agent.
+
 -Generate a delivery report in JSON format.
+
 -Supports multiple test cases.
 
 ## Technologies Used
 -Python 3.10
+
 -JSON
+
 -Math module
 
 ## Project Structure
-'''text
+'''
 Mystery_Delivery_System/
 │
 ├── Mystery_Delivery_System.py
