@@ -8,6 +8,7 @@ The program calculates the total distance traveled by each agent and identifies 
 
 ## Features
 -Read and parse JSON data.
+
 -Calculate Euclidean distance.
 -Assign packages to the nearest delivery agent.
 -Calculate total delivery distance.
