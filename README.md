@@ -53,13 +53,21 @@ Mystery_Delivery_System/
 '''
 ## How It Works
 1.The program reads the JSON input file.
+
 2.It reads the warehouse, agent, and package information.
+
 3.It calculates the Euclidean distance between each agent and warehouse.
+
 4.Each package is assigned to the nearest agent.
+
 5.The program calculates the distance from the warehouse to the destination.
+
 6.It calculates the total distance traveled by each agent.
+
 7.It calculates the average distance per delivery.
+
 8.It identifies the most efficient agent.
+
 9.The final report is saved as report.json.
 
 ## How to Run
