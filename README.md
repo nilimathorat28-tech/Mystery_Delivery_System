@@ -24,7 +24,7 @@ The program calculates the total distance traveled by each agent and identifies 
 -Supports multiple test cases.
 
 ## Technologies Used
--Python 3.10
+-Python 3.11
 
 -JSON
 
